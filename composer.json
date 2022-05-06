@@ -1,0 +1,9 @@
+{
+    "name": "visiosoft/spam_detection-extension",
+    "type": "streams-addon",
+    "autoload": {
+        "psr-4": {
+            "Visiosoft\\SpamDetectionExtension\\": "src/"
+        }
+    }
+}
